@@ -1,3 +1,10 @@
+papirus-icon-theme (1.0.0+170906-1) helium; urgency=medium
+
+  * Non-maintainer upload.
+  * Merge upstream commits to 5c435cc.
+
+ -- John Crawley <john@bunsenlabs.org>  Wed, 06 Sep 2017 17:39:44 +0900
+
 papirus-icon-theme (1.0.0+170806-1) helium; urgency=medium
 
   * Non-maintainer upload.
