@@ -12,7 +12,7 @@ papirus-icon-theme (1.0.0+170806-1) helium; urgency=medium
 
  -- John Crawley <john@bunsenlabs.org>  Sun, 06 Aug 2017 20:55:55 +0900
 
-papirus-icon-theme (1.0.0) UNRELEASED; urgency=low
+papirus-icon-theme (1.0.0-1) UNRELEASED; urgency=low
 
   * Initial release.
 
