@@ -35,14 +35,14 @@ Keeping this in mind, **please do not use** very bright and toxic colors for Pap
 
 For compabillity with mostly GTK Themes we use this palette:
 
-- white `#cccccc`
+- white `#e4e4e4`
 - black `#4f4f4f`
 
 For devices used material colors:
 
 - steel `#afafb1`
 - aluminium `#8e8e8e`
-- plastic `#5b5b5b`
+- plastic `#4f4f4f`
 
 Examples are available in the main icon theme folders. In the `work` directory, you'll only find templates and scripts.
 
