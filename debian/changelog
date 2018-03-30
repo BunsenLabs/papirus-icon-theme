@@ -1,3 +1,11 @@
+papirus-icon-theme (20171019-1~bunsen) helium; urgency=medium
+
+  * Non-maintainer upload.
+  * Merge commits from upstream up to f03fe44.
+  * Change version scheme to match debian maintainer scripts.
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 19 Oct 2017 17:19:32 +0900
+
 papirus-icon-theme (1.0.0+170906-1) helium; urgency=medium
 
   * Non-maintainer upload.
