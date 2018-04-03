@@ -1,3 +1,10 @@
+papirus-icon-theme (20180330-1~bunsen) helium; urgency=medium
+
+  * Non-maintainer upload.
+  * Merge upstream commits to 59b84eb.
+
+ -- John Crawley <john@bunsenlabs.org>  Fri, 30 Mar 2018 15:15:52 +0900
+
 papirus-icon-theme (20171019-1~bunsen) helium; urgency=medium
 
   * Non-maintainer upload.
